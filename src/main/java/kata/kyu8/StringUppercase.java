@@ -1,8 +1,5 @@
 package kata.kyu8;
 
-
-import java.util.UnknownFormatConversionException;
-
 /**
  * Is the string uppercase?<p>
  * Task: Create a method to see whether the string is ALL CAPS.<p>
